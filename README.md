@@ -1,11 +1,12 @@
-# Getting Started with Create React App
+# A simple Admin Dashboard which we can Delete retrive data
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+To run Project on your local Machine
 
+### `git clone  "https://github.com/abhi5157/Dashboard/"`
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
